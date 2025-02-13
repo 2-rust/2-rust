@@ -55,7 +55,7 @@ I specialize in **smart contract development, AI-powered trading bots, and decen
 </p>
 
 ### 📩 **Let's Connect!**
-<p><a href="https://t.me/DillonSolai" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%23FF4088.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a> <a href="https://github.com/DillonSol-ai" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/DillonSolai" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<p><a href="https://t.me/T_rustdev" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%23FF4088.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a> <a href="https://github.com/T-rustdev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/T_rustdev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>  
 
 🔗 Open to **collaborations, partnerships, and freelance opportunities!** 🚀
