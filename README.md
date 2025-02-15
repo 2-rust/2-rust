@@ -1,4 +1,54 @@
-## 👋 Hi, I'm Mason
+![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31313726636f6c6f723d3761343961352673656374696f6e3d68656164657226726576657273616c3d66616c7365](https://github.com/user-attachments/assets/2fcfc522-2072-405d-be1a-c5b1286fa313)!
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="117" viewBox="0 0 854 117">
+                <style>
+                        .text {
+						font-size: 70px;
+						font-weight: 700;
+						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+					}
+					.desc {
+						font-size: 20px;
+						font-weight: 500;
+						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+					}
+                        
+                     </style>
+                    
+         
+    <g transform="translate(427, 58.5) scale(1, 1) translate(-427, -58.5)">
+      <path d="" fill="#7a49a5" opacity="0.4" >
+        <animate
+            attributeName="d"
+            dur="20s"
+            repeatCount="indefinite"
+            keyTimes="0;0.333;0.667;1"
+            calcmod="spline"
+            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+            begin="0s"
+            values="M0 0L 0 37Q 213.5 77 427 47T 854 72L 854 0 Z;M0 0L 0 62Q 213.5 77 427 57T 854 47L 854 0 Z;M0 0L 0 82Q 213.5 52 427 82T 854 47L 854 0 Z;M0 0L 0 37Q 213.5 77 427 47T 854 72L 854 0 Z">
+        </animate>
+      </path>
+      <path d="" fill="#7a49a5" opacity="0.4" >
+        <animate
+          attributeName="d"
+          dur="20s"
+          repeatCount="indefinite"
+          keyTimes="0;0.333;0.667;1"
+          calcmod="spline"
+          keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+          begin="-10s"
+          values="M0 0L 0 52Q 213.5 97 427 67T 854 77L 854 0 Z;M0 0L 0 67Q 213.5 37 427 37T 854 57L 854 0 Z;M0 0L 0 62Q 213.5 42 427 67T 854 82L 854 0 Z;M0 0L 0 52Q 213.5 97 427 67T 854 77L 854 0 Z">
+        </animate>
+      </path>
+    </g>
+                
+     
+    
+                 
+            </svg>
+        [Uploading 68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31313726636f6c6f723d3761343961352673656374696f6e3d68656164657226726576657273616c3d66616c7365.svg…]()
+
+## 👋 Hi, I m T-rustdev
 ---
 
 ### 🚀 **Blockchain AI Developer | Web3 Engineer | DeFi & DEX Specialist**  
@@ -55,7 +105,8 @@ I specialize in **smart contract development, AI-powered trading bots, and decen
 </p>
 
 ### 📩 **Let's Connect!**
-<p><a href="https://t.me/T_rustdev" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%23FF4088.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a> <a href="https://github.com/T-rustdev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/T_rustdev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<p><a href="https://t.me/T_rustdev" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%23FF4088.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a> <a href="https://github.com/T-rustdev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/T_rustdev" target="_blank">
+<!--   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
 </p>  
 
 🔗 Open to **collaborations, partnerships, and freelance opportunities!** 🚀
