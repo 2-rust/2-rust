@@ -1,4 +1,4 @@
-<img url = "https://github.com/user-attachments/assets/2fcfc522-2072-405d-be1a-c5b1286fa313" width = "100%"></img>
+<img style='width:100%' src='https://capsule-render.vercel.app/api?type=waving&height=117&color=7a49a5&section=header&reversal=false'>
 ## 👋 Hi, I m T-rustdev
 ---
 
