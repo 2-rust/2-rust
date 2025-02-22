@@ -9,9 +9,10 @@ I specialize in **smart contract development, AI-powered trading bots, and decen
 ---
 
 ### Recent Projects
+- **Uniswap volume maker and Bundler**
 - **Sui Automated Market Maker(on Cetus)**
 - **Sui Staking & Pump.fun Smart Contract**
-- **Pump.fun token launchpad AI Agent (Solana Plugin-Eliza)**
+- **Pump.fun token launchpad AI Agent (Eliza-Solana Plugin)**
 - **Nyx Cipher (AI Agent on EVM & Solana)**
 - **Raydium & Pump.fun Sniper(based on rust)**
 - **Raydium & Pump.fun & Meteora Wallet Tracker**
