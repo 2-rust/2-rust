@@ -9,7 +9,6 @@ I specialize in **smart contract development, AI-powered trading bots, and decen
 ---
 
 ### Recent Projects
-- **Uniswap volume maker and Bundler**
 - **Sui Automated Market Maker(on Cetus)**
 - **Sui Staking & Pump.fun Smart Contract**
 - **Pump.fun token launchpad AI Agent (Eliza-Solana Plugin)**
@@ -20,6 +19,10 @@ I specialize in **smart contract development, AI-powered trading bots, and decen
 - **Volume Booster( Raydium, Pumpfun & Meteora)**
 - **Raydium & Pumpfun Bundler**
 - **NFT & Ordinal Non Custodial Staking in Mutichain**
+
+### Recent Read Articles
+- [Real world Assets and Depin: The feature of assets and Infrastructure](https://tokeny.com/rwa-and-depin-the-future-of-assets-and-infrastructure/)
+- [Steps Involved in RWA Tokenization Platform Development](https://medium.com/@kalpstudio.marketing/steps-involved-in-rwa-tokenization-platform-development-f82c0f29ecfd)
 
 ### 🔥 **Projects & Contributions**
 🚀 **[Blockchain Projects GitHub Repos](https://github.com/T-rustdev/blockchain-projects)**  
