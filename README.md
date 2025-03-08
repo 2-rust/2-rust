@@ -9,18 +9,19 @@ I specialize in **smart contract development, AI-powered trading bots, and decen
 ---
 
 ### Recent Projects
+- **Ordinal Swap Backend**
+- **Sonic Bundler - gas-optimized evm bundler**
 - **Sui Automated Market Maker(on Cetus)**
-- **Sui Staking & Pump.fun Smart Contract**
 - **Pump.fun token launchpad AI Agent (Eliza-Solana Plugin)**
-- **Nyx Cipher (AI Agent on EVM & Solana)**
 - **Raydium & Pump.fun Sniper(based on rust)**
+- **Raydium & Pumpfun Bundler**
 - **Raydium & Pump.fun & Meteora Wallet Tracker**
 - **Raydium & Pump.fun & Meteora Copy Trader**
 - **Volume Booster( Raydium, Pumpfun & Meteora)**
-- **Raydium & Pumpfun Bundler**
-- **NFT & Ordinal Non Custodial Staking in Mutichain**
+- **NFT & Ordinal Non Custodial Staking in Mutichain(Bitcoin, Solana, EVM)**
 
 ### Recent Read Articles
+- [Sonic | EVM-Compatible Layer 1 Blockchain | Code Review](https://research.tokenmetrics.com/sonic-evm-compatible-layer-1-blockchain-code-review/)
 - [Real world Assets and Depin: The feature of assets and Infrastructure](https://tokeny.com/rwa-and-depin-the-future-of-assets-and-infrastructure/)
 - [Steps Involved in RWA Tokenization Platform Development](https://medium.com/@kalpstudio.marketing/steps-involved-in-rwa-tokenization-platform-development-f82c0f29ecfd)
 
