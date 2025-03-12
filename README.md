@@ -57,7 +57,7 @@ I specialize in **smart contract development, AI-powered trading bots, and decen
 </p>
 
 ### 📩 **Let's Connect!**
-<p><a href="victorkensington.mom@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%285722.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a><a href="https://t.me/T_rustdev" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%23FF4088.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a> <a href="https://github.com/T-rustdev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/T_rustdev_" target="_blank">
+<p><a href="dillonking130@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%285722.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a><a href="https://t.me/T_rustdev" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%23FF4088.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a> <a href="https://github.com/T-rustdev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/T_rustdev_" target="_blank">
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>  
 
