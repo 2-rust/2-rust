@@ -15,9 +15,7 @@ I specialize in **smart contract development, AI-powered trading bots, and decen
 - **Pump.fun token launchpad AI Agent (Eliza-Solana Plugin)**
 - **Raydium & Pump.fun Sniper(based on rust)**
 - **Raydium & Pumpfun Bundler**
-- **Raydium & Pump.fun & Meteora Wallet Tracker**
 - **Raydium & Pump.fun & Meteora Copy Trader**
-- **Volume Booster( Raydium, Pumpfun & Meteora)**
 - **NFT & Ordinal Non Custodial Staking in Mutichain(Bitcoin, Solana, EVM)**
 
 ### Recent Read Articles
