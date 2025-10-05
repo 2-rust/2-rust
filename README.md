@@ -9,6 +9,7 @@ I specialize in **smart contract development, AI-powered trading bots, and decen
 ---
 
 ### Recent Projects
+- **Ordinal Swap frontend**
 - **Ordinal Swap Backend**
 - **Sonic Bundler - gas-optimized evm bundler**
 - **Sui Automated Market Maker(on Cetus)**
