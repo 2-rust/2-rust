@@ -9,15 +9,13 @@ I specialize in **smart contract development, AI-powered trading bots, and decen
 ---
 
 ### Recent Projects
-- **BNB bundler** and volume booster
+- **Weather Prediction Model and Trained AI ChattingBot**
 - **Forking four.meme smart contract**
-- **Ordinal Swap frontend and Backend**
-- **Sonic Bundler - gas-optimized evm bundler**
+- **Ordinal Swap Marketplace frontend and Backend**
+- **Sonic, BNB, EVM Bundler - gas-optimized evm bundler**
 - **Sui Automated Market Maker(on Cetus)**
 - **Pump.fun token launchpad AI Agent (Eliza-Solana Plugin)**
-- **Raydium & Pump.fun Sniper(based on rust)**
-- **Raydium & Pumpfun Bundler**
-- **Raydium & Pump.fun & Meteora Copy Trader**
+- **Raydium & Pump.fun & Meteora DLMM liqudity checking bot, Copy Trader, Bundler, Sniper,Volume Booster**
 - **NFT & Ordinal Non Custodial Staking in Mutichain(Bitcoin, Solana, EVM)**
 
 ### Recent Read Articles
