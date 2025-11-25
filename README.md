@@ -9,6 +9,7 @@ I specialize in **smart contract development, AI-powered trading bots, and decen
 ---
 
 ### Recent Projects
+- **Monad nad.fun bundler**
 - **Weather Prediction Model and Trained AI ChattingBot**
 - **Forking four.meme smart contract**
 - **Ordinal Swap Marketplace frontend and Backend**
