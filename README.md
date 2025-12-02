@@ -1,7 +1,6 @@
-# 👋 Hi, I m Ͳ-ɾմʂէժҽѵ
----
+# **Blockchain AI Developer | Web3 Engineer | DApp & DEX Specialist**
 
-### 🚀 **Blockchain AI Developer | Web3 Engineer | DeFi & DEX Specialist**  
+### 🚀About Me
 I specialize in **smart contract development, AI-powered trading bots, and decentralized applications (dApps)** across **Solana, Bitcoin, and EVM chains**. With deep expertise in **DeFi, DEXs, NFT marketplaces, and non-custodial staking**, I build secure, high-performance blockchain solutions. 
 
 ---
@@ -33,6 +32,7 @@ I specialize in **smart contract development, AI-powered trading bots, and decen
   <img alt="Bitcoin" src="https://img.shields.io/badge/-Bitcoin-43853d?style=flat-square&logo=Bitcoin&logoColor=white" />
   <img alt="Solana" src="https://img.shields.io/badge/-Solana-E34F26?style=flat-square&logo=solana5&logoColor=white" />
   <img alt="Eethereum" src="https://img.shields.io/badge/-Ehereum-DD0031?style=flat-square&logo=ethereum&logoColor=white" />
+  <img alt="ApeChain" src="https://img.shields.io/badge/-Apechain-E34F26?style=flat-square&logo=apechain&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-007ACC?style=flat-square&logo=rust&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-Solidity-5849BE?style=flat-square&logo=solidity&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-Python-DD0031?style=flat-square&logo=python&logoColor=white" />
