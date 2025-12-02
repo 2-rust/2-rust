@@ -10,7 +10,7 @@ I specialize in **smart contract development, AI-powered trading bots, and decen
 
 ### Recent Projects
 - [**Building RWA-(Real-World Activity) in Shape - EVM L2**](https://unbound.games)
-- [**NFT Staking V2 in Apechain](https://github.com/2-rust/apestaking-v2-smart-contract)
+- [**NFT Staking V2 in Apechain**](https://github.com/2-rust/apestaking-v2-smart-contract)
 - [**Monad nad.fun bundler**](https://github.com/2-rust/nadfun-bundler)
 - **Weather Prediction Model and Trained AI ChattingBot**
 - **Forking four.meme smart contract**
