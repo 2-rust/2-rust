@@ -10,6 +10,7 @@ I specialize in **smart contract development, AI-powered trading bots, and decen
 - [**NFT Staking V2 in Apechain**](https://github.com/2-rust/apestaking-v2-smart-contract)
 - [**Monad nad.fun bundler**](https://github.com/2-rust/nadfun-bundler)
 - **Weather Prediction Model and Trained AI ChattingBot**
+- **ApeChain NFT Shadowing - LayerZero's lzRead**
 - **Forking four.meme smart contract**
 - **Ordinal Swap Marketplace frontend and Backend**
 - **Sonic, BNB, EVM Bundler - gas-optimized evm bundler**
