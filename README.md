@@ -22,7 +22,6 @@ I specialize in bridging **AI, blockchain, and real-world data** to create **ful
 | **Monad nad.fun Bundler**              | Rust / EVM      | Bundled token transactions, optimized for speed and minimal gas                                                                 |
 | **AI Trading & Analysis Bots**         | Python / Solana | Real-time DEX monitoring, liquidity optimization, volume boosting, sniper bots                                                  |
 | **Ordinal Swap Marketplace**           | Bitcoin         | Full-stack marketplace with secure trading and non-custodial staking                                                            |
-| **Sui AMM (Cetus)**                    | Rust / Sui      | Automated Market Maker with optimized liquidity pool mechanics                                                                  |
 | **Pump.fun Launchpad AI Agent**        | Solana          | AI-powered launchpad monitoring token launches, analyzing liquidity and volume                                                  |
 
 > **Impact Highlights:**
