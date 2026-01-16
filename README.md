@@ -17,7 +17,7 @@ I specialize in bridging **AI, blockchain, and real-world data** to create **ful
 
 | Project                                | Stack / Chain   | Description / Impact                                                                                                            |
 | -------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| **Agent to Agent Payment Protocal**    | X402, AI        | A complete TypeScript implementation of the Python x402 payment protocol extension for A2A (Agent-to-Agent) communication.      |
+| **Agent to Agent Payment Protocal**    | x402, AI        | A complete TypeScript implementation of the Python x402 payment protocol extension for A2A (Agent-to-Agent) communication.      |
 | **RWA (Real-World Activity) Platform** | EVM L2, AI, NFT | Gamifies fitness activity into NFT fighter stats; 5,200+ fighters dynamically updated off-chain with real-time OpenSea metadata |
 | **NFT Staking V2**                     | ApeChain        | Multi-chain NFT staking smart contract, gas-optimized with off-chain verification                                               |
 | **Monad nad.fun Bundler**              | Rust / EVM      | Bundled token transactions, optimized for speed and minimal gas                                                                 |
