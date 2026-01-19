@@ -6,7 +6,7 @@ I build **secure, high-performance blockchain systems** spanning **Solana, EVM c
 
 * **DEX & DeFi architectures**
 * **NFT marketplaces & non-custodial staking**
-* **AI-powered agents & trading bots**
+* **AI-powered agents & trading bots & CSR & A2A**
 * **Hybrid on-chain/off-chain data systems**
 
 I specialize in bridging **AI, blockchain, and real-world data** to create **full-stack decentralized applications** that scale.
