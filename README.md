@@ -55,8 +55,8 @@ I specialize in bridging **AI, blockchain, and real-world data** to create **ful
 
 ### 🔥 Repositories & Open-Source Work
 
-* **Blockchain Projects:** [GitHub](https://github.com/T-rustdev/blockchain-projects)
-* **Solana Trading Bots:** [GitHub](https://github.com/T-rustdev/solana-trading-bot-service)
+* **Blockchain Projects:** [GitHub](https://github.com/OnChainMee/blockchain-projects)
+* **Solana Trading Bots:** [GitHub](https://github.com/OnChainMee/solana-trading-bot-service)
 
 ---
 
@@ -65,7 +65,7 @@ I specialize in bridging **AI, blockchain, and real-world data** to create **ful
 I’m open to **freelance, collaborative, and full-time Web3 + AI opportunities**. Let’s build the next-generation decentralized systems together!
 
 <p>
-<a href="https://t.me/rust_devv"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%23FF4088.svg?style=for-the-badge&logo=Telegram&logoColor=white" /></a>
-<a href="https://github.com/2-rust"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://twitter.com/T_rustdev_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://t.me/OnChainMee"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%23FF4088.svg?style=for-the-badge&logo=Telegram&logoColor=white" /></a>
+<a href="https://github.com/OnChainMee"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://twitter.com/OnChainMee"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
