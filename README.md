@@ -22,7 +22,7 @@ I specialize in bridging **AI, blockchain, and real-world data** to create **ful
 | **RWA (Real-World Activity) Platform** | EVM L2, AI, NFT | Gamifies fitness activity into NFT fighter stats; 5,200+ fighters dynamically updated off-chain with real-time OpenSea metadata |
 | **NFT Staking V2**                     | ApeChain        | Multi-chain NFT staking smart contract, gas-optimized with off-chain verification                                               |
 | **Monad nad.fun Bundler**              | Rust / EVM      | Bundled token transactions, optimized for speed and minimal gas                                                                 |
-| **AI Trading & Analysis Bots**         | Python / Solana | Real-time DEX monitoring, liquidity optimization, volume boosting, sniper bots                                                  |
+| **Ape Staking Smart Contract**         | Apechain        | Apechain staking smart contract                                                                                                 |
 | **Pump.fun Launchpad AI Agent**        | Solana          | AI-powered launchpad monitoring token launches, analyzing liquidity and volume                                                  |
 
 > **Impact Highlights:**
