@@ -47,6 +47,7 @@ I specialize in bridging **AI, blockchain, and real-world data** to create **ful
 
 ### 📚 Recent Articles & Research
 
+* [Ethereum to roll out ERC‑8004 for a global market in AI agents](https://forklog.com/en/ethereum-to-roll-out-erc%E2%80%918004-for-a-global-market-in-ai-agents/)
 * [Top 5 Blockchain Technology Trends 2026–2030](https://binariks.com/blog/emerging-blockchain-technology-trends/)
 * [Blockchain Trends Transforming Industries 2026](https://crustlab.com/blog/top-blockchain-trends/)
 * [AI Customer Support: The Use Cases, Best Practices, & Ethics](https://www.cxtoday.com/contact-center/ai-customer-support-the-use-cases-best-practices-ethics/)
